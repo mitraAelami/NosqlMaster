@@ -1,0 +1,11 @@
+Nom du fichier de donnees: data/2M.nt
+Nom du dossier des requetes: data/13k.queryset
+Nombre de triplets RDF: 2036619
+Nombre de requetes: 13000
+Temps de lecture des donnees: 5309
+Temps de lecture des requetes: 1193
+Temps de creation du dictionnaire: 868
+Temps de creation des index: 1144
+Temps total d'evaluation du workload: 30418
+Temps total (du debut a la fin du programme): 38932
+Nombre total de doublons dans les requetes : 6129
