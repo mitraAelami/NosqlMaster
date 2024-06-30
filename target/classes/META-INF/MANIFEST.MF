@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: aelam
-Build-Jdk: 16.0.2
-Main-Class: qengine.program.Main
-Created-By: Maven Integration for Eclipse
-
